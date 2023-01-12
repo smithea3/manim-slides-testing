@@ -73,4 +73,14 @@ class CalculusOneReview(Slide):
         self.wait()
 
 
+class HyperbolicEquations(Slide):
+    def construct(self):
+         title = Title("Hyperbolic Functions (Section 5.9)")
 
+         self.play(Write(title))
+
+         self.pause()
+
+         self.play(Write(
+            Text("Lorem Isupum").next_to(title, DOWN)
+         ))
