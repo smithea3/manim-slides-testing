@@ -4,3 +4,9 @@ slides/
 __pycache__/
 *.pyc
 .env
+tutorial-env/
+
+# macOS metadata
+.DS_Store
+._.DS_Store
+._*
