@@ -1,3 +1,6 @@
-__pycache__/
+.venv/
 media/
 slides/
+__pycache__/
+*.pyc
+.env
